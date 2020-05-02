@@ -1,0 +1,756 @@
+{
+  "Name": "messe",
+  "CreationDate": "2020-4-25",
+  "Commands": [
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=1",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=2",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=3",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=4",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=5",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=6",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=7",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=8",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=9",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=10",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=11",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=12",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=13",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=14",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=15",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=16",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=17",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=18",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=19",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=20",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=21",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=22",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=23",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=24",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=25",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=26",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=27",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=28",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=29",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=30",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=31",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=32",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=33",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=34",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=35",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=36",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=37",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=38",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=39",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=40",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=41",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=42",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=43",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=44",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=45",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=46",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=47",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=48",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=49",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "linkText=Dettaglio fattura@POS=50",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"main\"]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/button[2]",
+      "Value": ""
+    },
+    {
+      "Command": "storeEval",
+      "Target": "window.history.back()",
+      "Value": ""
+    }
+  ]
+}
